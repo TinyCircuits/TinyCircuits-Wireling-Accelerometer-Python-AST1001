@@ -1,6 +1,6 @@
 # TinyCircuits Wireling Acceleromter Python AST1001
 
-This repository holds a python example meant for using a TinyCircuits [Accelerometer Sensor Wireling](https://tinycircuits.com/collections/wireling-sensors/products/9-axis-sensor-wireling-lsm9ds1) with a Raspberry Pi and Wireling Pi Hat.
+This repository holds a python example meant for using a TinyCircuits [Accelerometer Sensor Wireling](https://nkl3bi1i7zzra7md-11252198.shopifypreview.com/collections/wireling-sensors/products/accelerometer-wireling-bma250) with a Raspberry Pi and Wireling Pi Hat.
 
 To install, use 
 
